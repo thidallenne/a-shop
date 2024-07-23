@@ -7,5 +7,5 @@ The goal was to create a React app  with two main components :
 
 I adapted the provided Angular kit as best as possible, to use with React.
 
-Used also in this project : Primereact, PrimeFlex, PrimeIcons, axios, sass
+Used also in this project : Primereact, PrimeFlex, PrimeIcons, axios, sass<br>
 As Backend : NodeJs + ExpressJs
