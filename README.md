@@ -1,8 +1,11 @@
-# React + Vite
+# A-Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project has been developed using Vite and React.
+The goal was to create a React app  with two main components :
+ - an ADMIN component to list and administrate products (add, edit or delete)
+ - an PRODUCTS component to showcase a list of products.
 
-Currently, two official plugins are available:
+I adapted the provided Angular kit as best as possible, to use with React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Used also in this project : Primereact, PrimeFlex, PrimeIcons, axios, sass
+As Backend : NodeJs + ExpressJs
